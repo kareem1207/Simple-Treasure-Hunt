@@ -1,0 +1,13 @@
+In this game there are 4 items :
+No.1 Decoder ----> Helps to decode coded language
+No.2 Room No teller ----> Tell's in which room your in
+No.3 Extra life ----> Adds an life to you over life (3) and no guarantee if finding 
+No.4 Treasure ----> This is end of the game
+and you will encounter few ghosts and death traps throughout the game , if you encounter a ghost you will lost a life but if you encounter a death trap you will die 
+And everything is randomized so enjoy the game 
+it is room map:
+20  21	22	23	24	25	26	27	28
+11	12	13	14	15	16	17	18	19
+2	3	4	5	6	7	8	9	10
+emoji credits go to "https://emojidb.org/number-emojis"
+sound effects go to "https://pixabay.com/sound-effects/"
